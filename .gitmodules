@@ -1,0 +1,9 @@
+[submodule "parkingmodelmaking"]
+	path = parkingmodelmaking
+	url = https://github.com/Viggyz/parkingmodelmaking.git
+[submodule "parkingtpuclient"]
+	path = parkingtpuclient
+	url = https://github.com/Viggyz/parkingtpuclient.git
+[submodule "parkingheroku"]
+	path = parkingheroku
+	url = https://github.com/Viggyz/parkingheroku.git
