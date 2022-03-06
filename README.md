@@ -1,5 +1,5 @@
 # Full Parking Project
-Project code a Parking Lot Vehicle Detection and Tracking on Google Coral EdgeTPU Model. 
+Project code a Parking Lot Vehicle Detection and Tracking on Google Coral EdgeTPU. 
 
 - Parking Model Making contains the code to train and compile the edgetpu model
 - Parking Heroku contains code to set up a flask-socketio server on Heroku
